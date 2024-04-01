@@ -1,0 +1,5 @@
+To deploy:
+
+ zip -r ../deployment-package/function.zip .
+
+ upload from deployment-package to lambda.
